@@ -1,4 +1,4 @@
-# 🚀 FinTech Website – AI-Powered Finance Management Platform  
+# 🚀 CoinArth – AI-Powered Finance Management Platform  
 
 ## **📌 Project Overview**  
 An AI-driven **finance management platform** that helps users **track expenses, optimize tax planning, and receive personalized investment recommendations** through interactive dashboards and real-time data analytics.  
